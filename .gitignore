@@ -1,0 +1,5 @@
+*.pyc
+*.egg
+*.egg-info
+**/__pycache__
+your_django_project/db.sqlite3
